@@ -69,6 +69,8 @@ Critères d'acceptation:
 - [Jitsi Scaleway](https://ensemble.scaleway.com) - Visioconférence libre hébergée par Scaleway
 - [Skype](https://www.skype.com/fr/) - Application de visiophonie
 - [Slack](https://slack.com/) - Plateforme de travail collaboratif
+- [Framateam](https://framateam.org/) - Instance de l'outils de discussion instantané libre hébergé par Framasoft
+- [Framatalk](https://framatalk.org/accueil/fr/) - Instantce de l'outil de visioconférence libre Jitsi hébergé par Framasoft
 
 ## Sport
 
