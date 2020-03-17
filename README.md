@@ -50,6 +50,7 @@ Critères d'acceptation:
 ## Communication
 
 - [Discord](https://discordapp.com/) - Communication voix and texte pour les gamers
+- [Jitsi Scaleway](https://twitter.com/a_bermingham/status/1239988047980179457) - Visioconférence libre hébergée par Scaleway
 - [Skype](https://www.skype.com/fr/) - Application de visiophonie
 - [Slack](https://slack.com/) - Plateforme de travail collaboratif
 
