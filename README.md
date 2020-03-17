@@ -15,17 +15,22 @@ Critères d'acceptation:
 ## Table des matières
 
 1. [Informations utiles](#informations-utiles) - Informations relatives aux virus et aux directives
-2. [Chaines TV](#chaines-tv) - Chaines TV via réseau hertzien et box internet
-3. [Video on demand](#video-on-demand) - Sites de VOD
-4. [Musique](#musique) - Contenu musical
-5. [Jeux Video](#jeux-video) - Jeux vidéo
-6. [Communication](#communication) - Outils de communication
-7. [Divers](#divers) - Divers
+2. [Outils confinement](#outils-confinement) - Outils et sites utiles
+3. [Chaines TV](#chaines-tv) - Chaines TV via réseau hertzien et box internet
+4. [Video on demand](#video-on-demand) - Sites de VOD
+5. [Musique](#musique) - Contenu musical
+6. [Jeux Video](#jeux-video) - Jeux vidéo
+7. [Communication](#communication) - Outils de communication
+8. [Divers](#divers) - Divers
 
 ## Informations utiles
 
 - [Info Coronavirus](https://www.gouvernement.fr/info-coronavirus) - Informations gouvernementales sur le coronavirus
+
+## Outils confinement
+
 - [Attestation Dérogatoire](https://www.gouvernement.fr/sites/default/files/contenu/piece-jointe/2020/03/attestation_de_deplacement_derogatoire.pdf) - Attestation dérogatoire pour les déplacements exceptionnels
+- [Generateur d'attestations](https://vikbez.github.io/covid-sortie/) - Generer plus facilement son attestation de sortie en cas de besoin
 
 ## Chaines TV
 
