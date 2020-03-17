@@ -34,7 +34,7 @@ Critères d'acceptation:
 
 ## Video on demand
 
-- :en: [Openculture](http://www.openculture.com/freemoviesonline) - 1,150 Free Movies Online: Great Classics, Indies, Noir, Westerns, etc.
+- :gb: [Openculture](http://www.openculture.com/freemoviesonline) - 1,150 Free Movies Online: Great Classics, Indies, Noir, Westerns, etc.
 
 ## Musique
 
