@@ -48,6 +48,8 @@ Critères d'acceptation:
 
 ## Jeux Video
 
+- [Le Petit Bac](https://petitbacenligne.net/) - Le Petit Bac en ligne
+
 ## Communication
 
 - [Discord](https://discordapp.com/) - Communication voix and texte pour les gamers
