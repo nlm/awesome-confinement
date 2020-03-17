@@ -34,6 +34,7 @@ Critères d'acceptation:
 
 ## Video on demand
 
+- [Opera de Paris](https://www.operadeparis.fr/magazine) - Les spectacles de l'Opera de Paris accessibles en replay
 - :gb: [Openculture](http://www.openculture.com/freemoviesonline) - 1,150 Free Movies Online: Great Classics, Indies, Noir, Westerns, etc.
 
 ## Musique
