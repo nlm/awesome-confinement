@@ -49,6 +49,8 @@ Critères d'acceptation:
 
 ## Communication
 
+- [Discord](https://discordapp.com/) - Communication voix and texte pour les gamers
 - [Skype](https://www.skype.com/fr/) - Application de visiophonie
+- [Slack](https://slack.com/) - Plateforme de travail collaboratif
 
 ## Divers
