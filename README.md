@@ -26,6 +26,7 @@ Critères d'acceptation:
 
 - [Info Coronavirus](https://www.gouvernement.fr/info-coronavirus) - Informations gouvernementales sur le coronavirus
 - [Attestation Dérogatoire](https://www.gouvernement.fr/sites/default/files/contenu/piece-jointe/2020/03/attestation_de_deplacement_derogatoire.pdf) - Attestation dérogatoire pour les déplacements exceptionnels
+- [Les mesures de restriction](https://www.interieur.gouv.fr/Actualites/L-actu-du-Ministere/Coronavirus-COVID-19-Questions-reponses-sur-les-mesures-de-restrictions) - Questions réponses sur les mesures de restriction
 
 ## Chaines TV
 
@@ -53,7 +54,7 @@ Critères d'acceptation:
 ## Communication
 
 - [Discord](https://discordapp.com/) - Communication voix and texte pour les gamers
-- [Jitsi Scaleway](https://twitter.com/a_bermingham/status/1239988047980179457) - Visioconférence libre hébergée par Scaleway
+- [Jitsi Scaleway](https://ensemble.scaleway.com) - Visioconférence libre hébergée par Scaleway
 - [Skype](https://www.skype.com/fr/) - Application de visiophonie
 - [Slack](https://slack.com/) - Plateforme de travail collaboratif
 
