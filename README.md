@@ -50,6 +50,6 @@ Critères d'acceptation:
 
 ## Sport
 
-- :gb: https://www.reddit.com/r/bodyweightfitness/
+- :gb: [Reddit BodyWeightFitness](https://www.reddit.com/r/bodyweightfitness/) - Communauté Reddit sur le Fitness
 
 ## Divers
