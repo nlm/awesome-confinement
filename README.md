@@ -40,12 +40,21 @@ Critères d'acceptation:
 - :gb: [Openculture](http://www.openculture.com/freemoviesonline) - 1,150 Free Movies Online: Great Classics, Indies, Noir, Westerns, etc.
 - [Arte concert](https://www.arte.tv/fr/arte-concert/) - Plus de 600 concerts disponibles en replay.
 
-
 ## Musique
 
 - [Laurent Garnier Mix 7 Heures](https://www.traxmag.com/laurent-garnier-mix-7-heures-confinement/) - DJ set spécial de 7 heures
 - [Tom Costino Pandemix 1](https://soundcloud.com/tom-costino/pandemix-01) - DJ set spécial pandémie par Tom Costino
 - [Les 10 Minutes du Peuple 17/04](https://open.spotify.com/playlist/1AdoMLG49T2OhQIz79xtgX) - Playlist collaborative spéciale
+
+## Musées
+
+- [Musées de Paris](http://parismuseescollections.paris.fr/fr) - Repertoire des oeuvres des musées de Paris
+- [Muséosphere](http://museosphere.paris.fr/) - Visite virtuelle des musées de Paris
+- [Reportages Musées](https://www.youtube.com/channel/UC6tjnYtebuODogr6C-ac-6g) - Chaine YouTube des musées de Paris
+
+## Réseaux Sociaux
+
+- [1 Savoir par Jour](https://twitter.com/gourmaud_jamy/status/1239956880929284098) - Un savoir par jour avec Jamy Gourmaud
 
 ## Jeux Video
 
