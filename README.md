@@ -43,6 +43,7 @@ Critères d'acceptation:
 ## Musique
 
 - [Laurent Garnier Mix 7 Heures](https://www.traxmag.com/laurent-garnier-mix-7-heures-confinement/) - DJ set spécial de 7 heures
+- [Tom Costino Pandemix 1](https://soundcloud.com/tom-costino/pandemix-01) - DJ set spécial pandémie par Tom Costino
 
 ## Jeux Video
 
