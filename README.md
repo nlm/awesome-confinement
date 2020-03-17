@@ -18,9 +18,11 @@ Critères d'acceptation:
 2. [Chaines TV](#chaines-tv) - Chaines TV via réseau hertzien et box internet
 3. [Video on demand](#video-on-demand) - Sites de VOD
 4. [Musique](#musique) - Contenu musical
-5. [Jeux Video](#jeux-video) - Jeux vidéo
-6. [Communication](#communication) - Outils de communication
-7. [Divers](#divers) - Divers
+5. [Musées](#musees) - Musées et visites virtuelles
+6. [Réseaux Sociaux](#reseaux-sociaux) - Contenu sur les réseaux sociaux
+7. [Jeux Video](#jeux-video) - Jeux vidéo
+8. [Communication](#communication) - Outils de communication
+9. [Divers](#divers) - Divers
 
 ## Informations utiles
 
