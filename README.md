@@ -12,11 +12,10 @@ Critères d'acceptation:
 - Suivez le modèle
 - Préfixer par un drapeau pour les contenus
 
-
 ## Table des matières
 
 1. [Chaines TV](#chaines-tv)
-2. [Video on Demand](#video-on-demand)
+2. [Video on demand](#video-on-demand)
 3. [Musique](#musique)
 4. [Jeux Video](#jeux-video)
 
@@ -25,7 +24,7 @@ Critères d'acceptation:
 - [Free - Chaines Jeunesse](https://www.phonandroid.com/free-chaines-jeunesse-en-clair.html) - 9 chaînes jeunesse en clair pour les abonnés TV
 - [Box - Canal+](https://twitter.com/maxsaada/status/1239598363772887041) - Canal+ en clair sur les box
 
-## Video on Demand
+## Video on demand
 
 - :en: [Openculture](http://www.openculture.com/freemoviesonline) - 1,150 Free Movies Online: Great Classics, Indies, Noir, Westerns, etc.
 
