@@ -57,6 +57,7 @@ Critères d'acceptation:
 ## Réseaux Sociaux
 
 - [1 Savoir par Jour](https://twitter.com/gourmaud_jamy/status/1239956880929284098) - Un savoir par jour avec Jamy Gourmaud
+- [Coronaminus Kid](https://www.instagram.com/coronaminus_kid/) - Des tuto DIY pour s'amuser a la maison
 
 ## Jeux Video
 
