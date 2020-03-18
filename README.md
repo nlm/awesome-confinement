@@ -92,3 +92,5 @@ Critères d'acceptation:
 - :gb: [Reddit BodyWeightFitness](https://www.reddit.com/r/bodyweightfitness/) - Communauté Reddit sur le Fitness
 
 ## Divers
+
+- [NanoHack](http://copper3d.com/hackthepandemic/) - Masque imprimable en 3D
