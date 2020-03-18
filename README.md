@@ -36,6 +36,7 @@ Critères d'acceptation:
 
 - [Free - Chaines Jeunesse](https://www.phonandroid.com/free-chaines-jeunesse-en-clair.html) - 9 chaînes jeunesse en clair pour les abonnés TV
 - [Box - Canal+](https://twitter.com/maxsaada/status/1239598363772887041) - Canal+ en clair sur les box
+- [Bouygues Telecom](https://www.bouyguestelecom.fr/choisir-bouygues-telecom/covid-19-bouygues-telecom-se-mobilise) - 34 chaines en clair pendant le confinement
 
 ## Video on demand
 
