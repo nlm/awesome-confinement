@@ -18,11 +18,13 @@ Critères d'acceptation:
 2. [Chaines TV](#chaines-tv) - Chaines TV via réseau hertzien et box internet
 3. [Video on demand](#video-on-demand) - Sites de VOD
 4. [Musique](#musique) - Contenu musical
-5. [Musées](#musees) - Musées et visites virtuelles
-6. [Réseaux Sociaux](#reseaux-sociaux) - Contenu sur les réseaux sociaux
-7. [Jeux Video](#jeux-video) - Jeux vidéo
-8. [Communication](#communication) - Outils de communication
-9. [Divers](#divers) - Divers
+5. [Livres](#livres) - Livres et romans
+6. [Education](#education) - Ressources éducatives
+7. [Musées](#musees) - Musées et visites virtuelles
+8. [Réseaux Sociaux](#reseaux-sociaux) - Contenu sur les réseaux sociaux
+9. [Jeux Video](#jeux-video) - Jeux vidéo
+10. [Communication](#communication) - Outils de communication
+11. [Divers](#divers) - Divers
 
 ## Informations utiles
 
@@ -48,6 +50,17 @@ Critères d'acceptation:
 - [Tom Costino Pandemix 1](https://soundcloud.com/tom-costino/pandemix-01) - DJ set spécial pandémie par Tom Costino
 - [Les 10 Minutes du Peuple 17/04](https://open.spotify.com/playlist/1AdoMLG49T2OhQIz79xtgX) - Playlist collaborative spéciale
 - [Podcast de Possession](https://soundcloud.com/intothevalley) - Un podcast tetchno chaque jour aux alentours de midi
+
+## Livres
+
+- [Whisperies](https://www.facebook.com/168489050000869/posts/1394230980759997/) - (enfants) Acces gratuit aux livres audio et histoires animées pendant la période de confinement
+
+## Education
+
+- [Livres de Cours](https://www.dealabs.com/bons-plans/continuite-pedagogiques-1853961) - Plusieurs éditeurs proposent des manuels scolaires en accès libre
+- [Maxicours](https://www.maxicours.com/se/entraide-covid19) - Cours et exercices disponibles gratuitement de 9h a 17h
+- [Formation Python](https://www.docstring.fr/formations/la-formation-complete-python/) - Apprenez la programmation Python de manière progressive et pratique, sans aucune connaissance de base de Python
+- [Exercices Python](https://www.docstring.fr/formations/python-par-la-pratique-101-exercices-corriges/) - Python par la pratique : 101 Exercices Corrigés
 
 ## Musées
 
