@@ -51,6 +51,7 @@ Critères d'acceptation:
 - [Tom Costino Pandemix 1](https://soundcloud.com/tom-costino/pandemix-01) - DJ set spécial pandémie par Tom Costino
 - [Les 10 Minutes du Peuple 17/04](https://open.spotify.com/playlist/1AdoMLG49T2OhQIz79xtgX) - Playlist collaborative spéciale
 - [Podcast de Possession](https://soundcloud.com/intothevalley) - Un podcast tetchno chaque jour aux alentours de midi
+- [Hello Aylee](https://helloaylee.fr/5-sets-drum-and-bass-de-2020-teletravail-coronavirus/) - 5 sets de Drum and Bass a écouter
 
 ## Livres
 
