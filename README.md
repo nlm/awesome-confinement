@@ -69,6 +69,7 @@ Critères d'acceptation:
 - [Musées de Paris](http://parismuseescollections.paris.fr/fr) - Repertoire des oeuvres des musées de Paris
 - [Muséosphere](http://museosphere.paris.fr/) - Visite virtuelle des musées de Paris
 - [Reportages Musées](https://www.youtube.com/channel/UC6tjnYtebuODogr6C-ac-6g) - Chaine YouTube des musées de Paris
+- [Google Arts & Culture](https://artsandculture.google.com/partner?hl=en) - Visite de 2500 musées autour du monde
 
 ## Réseaux Sociaux
 
