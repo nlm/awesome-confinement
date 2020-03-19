@@ -78,6 +78,7 @@ Critères d'acceptation:
 ## Jeux Video
 
 - [Le Petit Bac](https://petitbacenligne.net/) - Le Petit Bac en ligne
+- [GOG](https://www.gog.com/partner/stay_at_home) - GOG offre 27 jeux gratuits pour rester chez vous
 
 ## Communication
 
