@@ -18,13 +18,14 @@ Critères d'acceptation:
 2. [Chaines TV](#chaines-tv) - Chaines TV via réseau hertzien et box internet
 3. [Video on demand](#video-on-demand) - Sites de VOD
 4. [Musique](#musique) - Contenu musical
-5. [Livres](#livres) - Livres et romans
-6. [Education](#education) - Ressources éducatives
-7. [Musées](#musees) - Musées et visites virtuelles
-8. [Réseaux Sociaux](#reseaux-sociaux) - Contenu sur les réseaux sociaux
-9. [Jeux Video](#jeux-video) - Jeux vidéo
-10. [Communication](#communication) - Outils de communication
-11. [Divers](#divers) - Divers
+5. [Production Musicale](#production-musicale) - Créer de la musique
+6. [Livres](#livres) - Livres et romans
+7. [Education](#education) - Ressources éducatives
+8. [Musées](#musees) - Musées et visites virtuelles
+9. [Réseaux Sociaux](#reseaux-sociaux) - Contenu sur les réseaux sociaux
+10. [Jeux Video](#jeux-video) - Jeux vidéo
+11. [Communication](#communication) - Outils de communication
+12. [Divers](#divers) - Divers
 
 ## Informations utiles
 
@@ -52,6 +53,10 @@ Critères d'acceptation:
 - [Les 10 Minutes du Peuple 17/04](https://open.spotify.com/playlist/1AdoMLG49T2OhQIz79xtgX) - Playlist collaborative spéciale
 - [Podcast de Possession](https://soundcloud.com/intothevalley) - Un podcast tetchno chaque jour aux alentours de midi
 - [Hello Aylee](https://helloaylee.fr/5-sets-drum-and-bass-de-2020-teletravail-coronavirus/) - 5 sets de Drum and Bass a écouter
+
+## Production Musicale
+
+- [Voltage Modular Synth](https://cherryaudio.com/free) - Voltage Modular Nucleus Free Offer
 
 ## Livres
 
